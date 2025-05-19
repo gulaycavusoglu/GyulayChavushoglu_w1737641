@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e8d21f86684d2f40b350ff022612644
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialoguePanel: {instanceID: 0}
+  - player: {instanceID: 0}
+  - npcs: {instanceID: 0}
+  - cameraTarget: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - thirdPersonCam: {fileID: 2070925441746177671, guid: a1a802ecaf6775746bb2a929fb554ad8, type: 3}
+  - thirdPersonController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
